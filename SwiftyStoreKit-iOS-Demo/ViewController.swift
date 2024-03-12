@@ -24,7 +24,7 @@
 
 import UIKit
 import StoreKit
-import SwiftyStoreKit
+import LYSwiftyStoreKit
 
 enum RegisteredPurchase: String {
 
@@ -177,7 +177,6 @@ class ViewController: UIViewController {
     }
     
     func verifyReceipt(completion: @escaping (VerifyReceiptResult) -> Void) {
-        
         let appleValidator = AppleReceiptValidator(service: .production, sharedSecret: "your-shared-secret")
         SwiftyStoreKit.verifyReceipt(using: appleValidator, completion: completion)
     }
@@ -274,7 +273,7 @@ extension ViewController {
     }
 
     // swiftlint:disable cyclomatic_complexity
-    func alertForPurchaseResult(_ result: PurchaseResult) -> UIAlertController? {
+    func alertForPurchaseResult(_ result: LYSwiftyStoreKit.PurchaseResult) -> UIAlertController? {
         switch result {
         case .success(let purchase):
             print("Purchase Success: \(purchase.productId)")
@@ -302,6 +301,8 @@ extension ViewController {
             default:
                 return alertWithTitle("Purchase failed", message: (error as NSError).localizedDescription)
             }
+        case .deferred(purchase: let purchase):
+            return alertWithTitle("Purchase failed", message: "deferred Could not connect to the network")
         }
     }
 

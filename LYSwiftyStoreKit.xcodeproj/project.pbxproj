@@ -7,82 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2F2B8B3024A64CC100CEF088 /* SKProductDiscount+LocalizedPrice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2124A64CC000CEF088 /* SKProductDiscount+LocalizedPrice.swift */; };
-		2F2B8B3124A64CC100CEF088 /* SKProductDiscount+LocalizedPrice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2124A64CC000CEF088 /* SKProductDiscount+LocalizedPrice.swift */; };
-		2F2B8B3224A64CC100CEF088 /* SKProductDiscount+LocalizedPrice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2124A64CC000CEF088 /* SKProductDiscount+LocalizedPrice.swift */; };
-		2F2B8B3324A64CC100CEF088 /* SKProductDiscount+LocalizedPrice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2124A64CC000CEF088 /* SKProductDiscount+LocalizedPrice.swift */; };
-		2F2B8B3424A64CC100CEF088 /* AppleReceiptValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2224A64CC000CEF088 /* AppleReceiptValidator.swift */; };
-		2F2B8B3524A64CC100CEF088 /* AppleReceiptValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2224A64CC000CEF088 /* AppleReceiptValidator.swift */; };
-		2F2B8B3624A64CC100CEF088 /* AppleReceiptValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2224A64CC000CEF088 /* AppleReceiptValidator.swift */; };
-		2F2B8B3724A64CC100CEF088 /* AppleReceiptValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2224A64CC000CEF088 /* AppleReceiptValidator.swift */; };
-		2F2B8B3824A64CC100CEF088 /* InAppProductQueryRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2324A64CC000CEF088 /* InAppProductQueryRequest.swift */; };
-		2F2B8B3924A64CC100CEF088 /* InAppProductQueryRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2324A64CC000CEF088 /* InAppProductQueryRequest.swift */; };
-		2F2B8B3A24A64CC100CEF088 /* InAppProductQueryRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2324A64CC000CEF088 /* InAppProductQueryRequest.swift */; };
-		2F2B8B3B24A64CC100CEF088 /* InAppProductQueryRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2324A64CC000CEF088 /* InAppProductQueryRequest.swift */; };
-		2F2B8B3C24A64CC100CEF088 /* InAppReceipt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2424A64CC000CEF088 /* InAppReceipt.swift */; };
-		2F2B8B3D24A64CC100CEF088 /* InAppReceipt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2424A64CC000CEF088 /* InAppReceipt.swift */; };
-		2F2B8B3E24A64CC100CEF088 /* InAppReceipt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2424A64CC000CEF088 /* InAppReceipt.swift */; };
-		2F2B8B3F24A64CC100CEF088 /* InAppReceipt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2424A64CC000CEF088 /* InAppReceipt.swift */; };
-		2F2B8B4024A64CC100CEF088 /* SwiftyStoreKit+Types.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2524A64CC000CEF088 /* SwiftyStoreKit+Types.swift */; };
-		2F2B8B4124A64CC100CEF088 /* SwiftyStoreKit+Types.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2524A64CC000CEF088 /* SwiftyStoreKit+Types.swift */; };
-		2F2B8B4224A64CC100CEF088 /* SwiftyStoreKit+Types.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2524A64CC000CEF088 /* SwiftyStoreKit+Types.swift */; };
-		2F2B8B4324A64CC100CEF088 /* SwiftyStoreKit+Types.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2524A64CC000CEF088 /* SwiftyStoreKit+Types.swift */; };
-		2F2B8B4424A64CC100CEF088 /* CompleteTransactionsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2624A64CC000CEF088 /* CompleteTransactionsController.swift */; };
-		2F2B8B4524A64CC100CEF088 /* CompleteTransactionsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2624A64CC000CEF088 /* CompleteTransactionsController.swift */; };
-		2F2B8B4624A64CC100CEF088 /* CompleteTransactionsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2624A64CC000CEF088 /* CompleteTransactionsController.swift */; };
-		2F2B8B4724A64CC100CEF088 /* CompleteTransactionsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2624A64CC000CEF088 /* CompleteTransactionsController.swift */; };
-		2F2B8B4824A64CC100CEF088 /* PaymentQueueController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2724A64CC000CEF088 /* PaymentQueueController.swift */; };
-		2F2B8B4924A64CC100CEF088 /* PaymentQueueController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2724A64CC000CEF088 /* PaymentQueueController.swift */; };
-		2F2B8B4A24A64CC100CEF088 /* PaymentQueueController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2724A64CC000CEF088 /* PaymentQueueController.swift */; };
-		2F2B8B4B24A64CC100CEF088 /* PaymentQueueController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2724A64CC000CEF088 /* PaymentQueueController.swift */; };
-		2F2B8B4C24A64CC100CEF088 /* InAppReceiptRefreshRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2824A64CC000CEF088 /* InAppReceiptRefreshRequest.swift */; };
-		2F2B8B4D24A64CC100CEF088 /* InAppReceiptRefreshRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2824A64CC000CEF088 /* InAppReceiptRefreshRequest.swift */; };
-		2F2B8B4E24A64CC100CEF088 /* InAppReceiptRefreshRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2824A64CC000CEF088 /* InAppReceiptRefreshRequest.swift */; };
-		2F2B8B4F24A64CC100CEF088 /* InAppReceiptRefreshRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2824A64CC000CEF088 /* InAppReceiptRefreshRequest.swift */; };
-		2F2B8B5024A64CC100CEF088 /* InAppReceiptVerificator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2924A64CC100CEF088 /* InAppReceiptVerificator.swift */; };
-		2F2B8B5124A64CC100CEF088 /* InAppReceiptVerificator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2924A64CC100CEF088 /* InAppReceiptVerificator.swift */; };
-		2F2B8B5224A64CC100CEF088 /* InAppReceiptVerificator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2924A64CC100CEF088 /* InAppReceiptVerificator.swift */; };
-		2F2B8B5324A64CC100CEF088 /* InAppReceiptVerificator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2924A64CC100CEF088 /* InAppReceiptVerificator.swift */; };
-		2F2B8B5424A64CC100CEF088 /* SKProduct+LocalizedPrice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2A24A64CC100CEF088 /* SKProduct+LocalizedPrice.swift */; };
-		2F2B8B5524A64CC100CEF088 /* SKProduct+LocalizedPrice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2A24A64CC100CEF088 /* SKProduct+LocalizedPrice.swift */; };
-		2F2B8B5624A64CC100CEF088 /* SKProduct+LocalizedPrice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2A24A64CC100CEF088 /* SKProduct+LocalizedPrice.swift */; };
-		2F2B8B5724A64CC100CEF088 /* SKProduct+LocalizedPrice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2A24A64CC100CEF088 /* SKProduct+LocalizedPrice.swift */; };
-		2F2B8B5824A64CC100CEF088 /* ProductsInfoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2B24A64CC100CEF088 /* ProductsInfoController.swift */; };
-		2F2B8B5924A64CC100CEF088 /* ProductsInfoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2B24A64CC100CEF088 /* ProductsInfoController.swift */; };
-		2F2B8B5A24A64CC100CEF088 /* ProductsInfoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2B24A64CC100CEF088 /* ProductsInfoController.swift */; };
-		2F2B8B5B24A64CC100CEF088 /* ProductsInfoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2B24A64CC100CEF088 /* ProductsInfoController.swift */; };
-		2F2B8B5C24A64CC100CEF088 /* OS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2C24A64CC100CEF088 /* OS.swift */; };
-		2F2B8B5D24A64CC100CEF088 /* OS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2C24A64CC100CEF088 /* OS.swift */; };
-		2F2B8B5E24A64CC100CEF088 /* OS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2C24A64CC100CEF088 /* OS.swift */; };
-		2F2B8B5F24A64CC100CEF088 /* OS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2C24A64CC100CEF088 /* OS.swift */; };
-		2F2B8B6024A64CC100CEF088 /* PaymentsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2D24A64CC100CEF088 /* PaymentsController.swift */; };
-		2F2B8B6124A64CC100CEF088 /* PaymentsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2D24A64CC100CEF088 /* PaymentsController.swift */; };
-		2F2B8B6224A64CC100CEF088 /* PaymentsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2D24A64CC100CEF088 /* PaymentsController.swift */; };
-		2F2B8B6324A64CC100CEF088 /* PaymentsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2D24A64CC100CEF088 /* PaymentsController.swift */; };
-		2F2B8B6424A64CC100CEF088 /* SwiftyStoreKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2E24A64CC100CEF088 /* SwiftyStoreKit.swift */; };
-		2F2B8B6524A64CC100CEF088 /* SwiftyStoreKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2E24A64CC100CEF088 /* SwiftyStoreKit.swift */; };
-		2F2B8B6624A64CC100CEF088 /* SwiftyStoreKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2E24A64CC100CEF088 /* SwiftyStoreKit.swift */; };
-		2F2B8B6724A64CC100CEF088 /* SwiftyStoreKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2E24A64CC100CEF088 /* SwiftyStoreKit.swift */; };
-		2F2B8B6824A64CC100CEF088 /* RestorePurchasesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2F24A64CC100CEF088 /* RestorePurchasesController.swift */; };
-		2F2B8B6924A64CC100CEF088 /* RestorePurchasesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2F24A64CC100CEF088 /* RestorePurchasesController.swift */; };
-		2F2B8B6A24A64CC100CEF088 /* RestorePurchasesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2F24A64CC100CEF088 /* RestorePurchasesController.swift */; };
-		2F2B8B6B24A64CC100CEF088 /* RestorePurchasesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B2F24A64CC100CEF088 /* RestorePurchasesController.swift */; };
-		2F2B8B7424A64CD700CEF088 /* SwiftyStoreKit-watchOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F2B8B6C24A64CD700CEF088 /* SwiftyStoreKit-watchOS.h */; };
-		2F2B8B7524A64CD700CEF088 /* SwiftyStoreKit-watchOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F2B8B6C24A64CD700CEF088 /* SwiftyStoreKit-watchOS.h */; };
-		2F2B8B7624A64CD700CEF088 /* SwiftyStoreKit-watchOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F2B8B6C24A64CD700CEF088 /* SwiftyStoreKit-watchOS.h */; };
-		2F2B8B7724A64CD700CEF088 /* SwiftyStoreKit-watchOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F2B8B6C24A64CD700CEF088 /* SwiftyStoreKit-watchOS.h */; };
-		2F2B8B8424A64CD700CEF088 /* SwiftyStoreKit-tvOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F2B8B7024A64CD700CEF088 /* SwiftyStoreKit-tvOS.h */; };
-		2F2B8B8524A64CD700CEF088 /* SwiftyStoreKit-tvOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F2B8B7024A64CD700CEF088 /* SwiftyStoreKit-tvOS.h */; };
-		2F2B8B8624A64CD700CEF088 /* SwiftyStoreKit-tvOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F2B8B7024A64CD700CEF088 /* SwiftyStoreKit-tvOS.h */; };
-		2F2B8B8724A64CD700CEF088 /* SwiftyStoreKit-tvOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F2B8B7024A64CD700CEF088 /* SwiftyStoreKit-tvOS.h */; };
-		2F2B8B8824A64CD700CEF088 /* SwiftyStoreKit-iOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F2B8B7124A64CD700CEF088 /* SwiftyStoreKit-iOS.h */; };
-		2F2B8B8924A64CD700CEF088 /* SwiftyStoreKit-iOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F2B8B7124A64CD700CEF088 /* SwiftyStoreKit-iOS.h */; };
-		2F2B8B8A24A64CD700CEF088 /* SwiftyStoreKit-iOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F2B8B7124A64CD700CEF088 /* SwiftyStoreKit-iOS.h */; };
-		2F2B8B8B24A64CD700CEF088 /* SwiftyStoreKit-iOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F2B8B7124A64CD700CEF088 /* SwiftyStoreKit-iOS.h */; };
-		2F2B8B8C24A64CD700CEF088 /* SwiftyStoreKit-macOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F2B8B7224A64CD700CEF088 /* SwiftyStoreKit-macOS.h */; };
-		2F2B8B8D24A64CD700CEF088 /* SwiftyStoreKit-macOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F2B8B7224A64CD700CEF088 /* SwiftyStoreKit-macOS.h */; };
-		2F2B8B8E24A64CD700CEF088 /* SwiftyStoreKit-macOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F2B8B7224A64CD700CEF088 /* SwiftyStoreKit-macOS.h */; };
-		2F2B8B8F24A64CD700CEF088 /* SwiftyStoreKit-macOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F2B8B7224A64CD700CEF088 /* SwiftyStoreKit-macOS.h */; };
 		2F2B8BA024A64DE600CEF088 /* PaymentQueueControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B9424A64DE600CEF088 /* PaymentQueueControllerTests.swift */; };
 		2F2B8BA124A64DE600CEF088 /* PaymentTransactionObserverFake.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B9524A64DE600CEF088 /* PaymentTransactionObserverFake.swift */; };
 		2F2B8BA224A64DE600CEF088 /* ProductsInfoControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B9624A64DE600CEF088 /* ProductsInfoControllerTests.swift */; };
@@ -96,12 +20,12 @@
 		2F2B8BAB24A64DE600CEF088 /* PaymentQueueSpy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2B8B9F24A64DE600CEF088 /* PaymentQueueSpy.swift */; };
 		654287F61E79F5A000F61800 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 654287F41E79F5A000F61800 /* Main.storyboard */; };
 		654287F81E79F5A000F61800 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 654287F71E79F5A000F61800 /* Assets.xcassets */; };
-		654287FD1E79F75000F61800 /* SwiftyStoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54C0D52C1CF7404500F90BCE /* SwiftyStoreKit.framework */; };
-		654287FE1E79F75000F61800 /* SwiftyStoreKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 54C0D52C1CF7404500F90BCE /* SwiftyStoreKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		654287FD1E79F75000F61800 /* LYSwiftyStoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54C0D52C1CF7404500F90BCE /* LYSwiftyStoreKit.framework */; };
+		654287FE1E79F75000F61800 /* LYSwiftyStoreKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 54C0D52C1CF7404500F90BCE /* LYSwiftyStoreKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		654288021E7B34E500F61800 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F7DF701DCD4DF000835D30 /* ViewController.swift */; };
 		654288061E7B3A8800F61800 /* NetworkActivityIndicatorManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F7DF6F1DCD4DF000835D30 /* NetworkActivityIndicatorManager.swift */; };
 		654288071E7B3E1500F61800 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F7DF681DCD4DF000835D30 /* AppDelegate.swift */; };
-		658A08431E2EC5120074A98F /* SwiftyStoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6502F62D1B985C40004E342D /* SwiftyStoreKit.framework */; };
+		658A08431E2EC5120074A98F /* LYSwiftyStoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6502F62D1B985C40004E342D /* LYSwiftyStoreKit.framework */; };
 		65F7DF711DCD4DF000835D30 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F7DF681DCD4DF000835D30 /* AppDelegate.swift */; };
 		65F7DF721DCD4DF000835D30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65F7DF691DCD4DF000835D30 /* Assets.xcassets */; };
 		65F7DF731DCD4DF000835D30 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65F7DF6A1DCD4DF000835D30 /* LaunchScreen.storyboard */; };
@@ -112,10 +36,74 @@
 		65F7DF851DCD4FC500835D30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65F7DF7F1DCD4FC500835D30 /* Assets.xcassets */; };
 		65F7DF861DCD4FC500835D30 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65F7DF801DCD4FC500835D30 /* Main.storyboard */; };
 		65F7DF881DCD4FC500835D30 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F7DF831DCD4FC500835D30 /* ViewController.swift */; };
-		65F7DF8E1DCD524300835D30 /* SwiftyStoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6502F62D1B985C40004E342D /* SwiftyStoreKit.framework */; };
-		65F7DF8F1DCD524300835D30 /* SwiftyStoreKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 6502F62D1B985C40004E342D /* SwiftyStoreKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		C4FD3A101C2954CD0035CFF3 /* SwiftyStoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4D74BBB1C24CEC90071AD3E /* SwiftyStoreKit.framework */; };
-		C4FD3A111C2954CD0035CFF3 /* SwiftyStoreKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C4D74BBB1C24CEC90071AD3E /* SwiftyStoreKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		65F7DF8E1DCD524300835D30 /* LYSwiftyStoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6502F62D1B985C40004E342D /* LYSwiftyStoreKit.framework */; };
+		65F7DF8F1DCD524300835D30 /* LYSwiftyStoreKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 6502F62D1B985C40004E342D /* LYSwiftyStoreKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		B89B452D2BA00BB500632E93 /* SKProductDiscount+LocalizedPrice.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B451D2BA00BAF00632E93 /* SKProductDiscount+LocalizedPrice.swift */; };
+		B89B452E2BA00BB500632E93 /* SKProductDiscount+LocalizedPrice.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B451D2BA00BAF00632E93 /* SKProductDiscount+LocalizedPrice.swift */; };
+		B89B452F2BA00BB500632E93 /* SKProductDiscount+LocalizedPrice.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B451D2BA00BAF00632E93 /* SKProductDiscount+LocalizedPrice.swift */; };
+		B89B45302BA00BB600632E93 /* SKProductDiscount+LocalizedPrice.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B451D2BA00BAF00632E93 /* SKProductDiscount+LocalizedPrice.swift */; };
+		B89B45312BA00BB600632E93 /* SKProduct+LocalizedPrice.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B451E2BA00BAF00632E93 /* SKProduct+LocalizedPrice.swift */; };
+		B89B45322BA00BB600632E93 /* SKProduct+LocalizedPrice.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B451E2BA00BAF00632E93 /* SKProduct+LocalizedPrice.swift */; };
+		B89B45332BA00BB600632E93 /* SKProduct+LocalizedPrice.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B451E2BA00BAF00632E93 /* SKProduct+LocalizedPrice.swift */; };
+		B89B45342BA00BB600632E93 /* SKProduct+LocalizedPrice.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B451E2BA00BAF00632E93 /* SKProduct+LocalizedPrice.swift */; };
+		B89B45352BA00BB600632E93 /* PaymentsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B451F2BA00BAF00632E93 /* PaymentsController.swift */; };
+		B89B45362BA00BB600632E93 /* PaymentsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B451F2BA00BAF00632E93 /* PaymentsController.swift */; };
+		B89B45372BA00BB600632E93 /* PaymentsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B451F2BA00BAF00632E93 /* PaymentsController.swift */; };
+		B89B45382BA00BB600632E93 /* PaymentsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B451F2BA00BAF00632E93 /* PaymentsController.swift */; };
+		B89B45392BA00BB600632E93 /* RestorePurchasesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45202BA00BB000632E93 /* RestorePurchasesController.swift */; };
+		B89B453A2BA00BB600632E93 /* RestorePurchasesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45202BA00BB000632E93 /* RestorePurchasesController.swift */; };
+		B89B453B2BA00BB600632E93 /* RestorePurchasesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45202BA00BB000632E93 /* RestorePurchasesController.swift */; };
+		B89B453C2BA00BB600632E93 /* RestorePurchasesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45202BA00BB000632E93 /* RestorePurchasesController.swift */; };
+		B89B453D2BA00BB600632E93 /* AppleReceiptValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45212BA00BB000632E93 /* AppleReceiptValidator.swift */; };
+		B89B453E2BA00BB600632E93 /* AppleReceiptValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45212BA00BB000632E93 /* AppleReceiptValidator.swift */; };
+		B89B453F2BA00BB600632E93 /* AppleReceiptValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45212BA00BB000632E93 /* AppleReceiptValidator.swift */; };
+		B89B45402BA00BB600632E93 /* AppleReceiptValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45212BA00BB000632E93 /* AppleReceiptValidator.swift */; };
+		B89B45412BA00BB600632E93 /* InAppReceiptRefreshRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45222BA00BB000632E93 /* InAppReceiptRefreshRequest.swift */; };
+		B89B45422BA00BB600632E93 /* InAppReceiptRefreshRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45222BA00BB000632E93 /* InAppReceiptRefreshRequest.swift */; };
+		B89B45432BA00BB600632E93 /* InAppReceiptRefreshRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45222BA00BB000632E93 /* InAppReceiptRefreshRequest.swift */; };
+		B89B45442BA00BB600632E93 /* InAppReceiptRefreshRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45222BA00BB000632E93 /* InAppReceiptRefreshRequest.swift */; };
+		B89B45452BA00BB600632E93 /* InAppProductQueryRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45232BA00BB100632E93 /* InAppProductQueryRequest.swift */; };
+		B89B45462BA00BB600632E93 /* InAppProductQueryRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45232BA00BB100632E93 /* InAppProductQueryRequest.swift */; };
+		B89B45472BA00BB600632E93 /* InAppProductQueryRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45232BA00BB100632E93 /* InAppProductQueryRequest.swift */; };
+		B89B45482BA00BB600632E93 /* InAppProductQueryRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45232BA00BB100632E93 /* InAppProductQueryRequest.swift */; };
+		B89B45492BA00BB600632E93 /* CompleteTransactionsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45242BA00BB100632E93 /* CompleteTransactionsController.swift */; };
+		B89B454A2BA00BB600632E93 /* CompleteTransactionsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45242BA00BB100632E93 /* CompleteTransactionsController.swift */; };
+		B89B454B2BA00BB600632E93 /* CompleteTransactionsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45242BA00BB100632E93 /* CompleteTransactionsController.swift */; };
+		B89B454C2BA00BB600632E93 /* CompleteTransactionsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45242BA00BB100632E93 /* CompleteTransactionsController.swift */; };
+		B89B454D2BA00BB600632E93 /* InAppReceipt.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45252BA00BB100632E93 /* InAppReceipt.swift */; };
+		B89B454E2BA00BB600632E93 /* InAppReceipt.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45252BA00BB100632E93 /* InAppReceipt.swift */; };
+		B89B454F2BA00BB600632E93 /* InAppReceipt.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45252BA00BB100632E93 /* InAppReceipt.swift */; };
+		B89B45502BA00BB600632E93 /* InAppReceipt.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45252BA00BB100632E93 /* InAppReceipt.swift */; };
+		B89B45512BA00BB600632E93 /* ProductsInfoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45262BA00BB100632E93 /* ProductsInfoController.swift */; };
+		B89B45522BA00BB600632E93 /* ProductsInfoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45262BA00BB100632E93 /* ProductsInfoController.swift */; };
+		B89B45532BA00BB600632E93 /* ProductsInfoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45262BA00BB100632E93 /* ProductsInfoController.swift */; };
+		B89B45542BA00BB600632E93 /* ProductsInfoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45262BA00BB100632E93 /* ProductsInfoController.swift */; };
+		B89B45552BA00BB600632E93 /* InAppReceiptVerificator.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45272BA00BB200632E93 /* InAppReceiptVerificator.swift */; };
+		B89B45562BA00BB600632E93 /* InAppReceiptVerificator.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45272BA00BB200632E93 /* InAppReceiptVerificator.swift */; };
+		B89B45572BA00BB600632E93 /* InAppReceiptVerificator.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45272BA00BB200632E93 /* InAppReceiptVerificator.swift */; };
+		B89B45582BA00BB600632E93 /* InAppReceiptVerificator.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45272BA00BB200632E93 /* InAppReceiptVerificator.swift */; };
+		B89B45592BA00BB600632E93 /* PaymentQueueController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45282BA00BB300632E93 /* PaymentQueueController.swift */; };
+		B89B455A2BA00BB600632E93 /* PaymentQueueController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45282BA00BB300632E93 /* PaymentQueueController.swift */; };
+		B89B455B2BA00BB600632E93 /* PaymentQueueController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45282BA00BB300632E93 /* PaymentQueueController.swift */; };
+		B89B455C2BA00BB600632E93 /* PaymentQueueController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45282BA00BB300632E93 /* PaymentQueueController.swift */; };
+		B89B455D2BA00BB600632E93 /* OS.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45292BA00BB400632E93 /* OS.swift */; };
+		B89B455E2BA00BB600632E93 /* OS.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45292BA00BB400632E93 /* OS.swift */; };
+		B89B455F2BA00BB600632E93 /* OS.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45292BA00BB400632E93 /* OS.swift */; };
+		B89B45602BA00BB600632E93 /* OS.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B45292BA00BB400632E93 /* OS.swift */; };
+		B89B45612BA00BB600632E93 /* SwiftyStoreKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B452A2BA00BB400632E93 /* SwiftyStoreKit.swift */; };
+		B89B45622BA00BB600632E93 /* SwiftyStoreKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B452A2BA00BB400632E93 /* SwiftyStoreKit.swift */; };
+		B89B45632BA00BB600632E93 /* SwiftyStoreKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B452A2BA00BB400632E93 /* SwiftyStoreKit.swift */; };
+		B89B45642BA00BB600632E93 /* SwiftyStoreKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B452A2BA00BB400632E93 /* SwiftyStoreKit.swift */; };
+		B89B45652BA00BB600632E93 /* Platforms in Resources */ = {isa = PBXBuildFile; fileRef = B89B452B2BA00BB500632E93 /* Platforms */; };
+		B89B45662BA00BB600632E93 /* Platforms in Resources */ = {isa = PBXBuildFile; fileRef = B89B452B2BA00BB500632E93 /* Platforms */; };
+		B89B45672BA00BB600632E93 /* Platforms in Resources */ = {isa = PBXBuildFile; fileRef = B89B452B2BA00BB500632E93 /* Platforms */; };
+		B89B45682BA00BB600632E93 /* Platforms in Resources */ = {isa = PBXBuildFile; fileRef = B89B452B2BA00BB500632E93 /* Platforms */; };
+		B89B45692BA00BB600632E93 /* SwiftyStoreKit+Types.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B452C2BA00BB500632E93 /* SwiftyStoreKit+Types.swift */; };
+		B89B456A2BA00BB600632E93 /* SwiftyStoreKit+Types.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B452C2BA00BB500632E93 /* SwiftyStoreKit+Types.swift */; };
+		B89B456B2BA00BB600632E93 /* SwiftyStoreKit+Types.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B452C2BA00BB500632E93 /* SwiftyStoreKit+Types.swift */; };
+		B89B456C2BA00BB600632E93 /* SwiftyStoreKit+Types.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89B452C2BA00BB500632E93 /* SwiftyStoreKit+Types.swift */; };
+		C4FD3A101C2954CD0035CFF3 /* LYSwiftyStoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4D74BBB1C24CEC90071AD3E /* LYSwiftyStoreKit.framework */; };
+		C4FD3A111C2954CD0035CFF3 /* LYSwiftyStoreKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C4D74BBB1C24CEC90071AD3E /* LYSwiftyStoreKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -163,7 +151,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				654287FE1E79F75000F61800 /* SwiftyStoreKit.framework in Embed Frameworks */,
+				654287FE1E79F75000F61800 /* LYSwiftyStoreKit.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -174,7 +162,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				65F7DF8F1DCD524300835D30 /* SwiftyStoreKit.framework in Embed Frameworks */,
+				65F7DF8F1DCD524300835D30 /* LYSwiftyStoreKit.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -185,7 +173,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				C4FD3A111C2954CD0035CFF3 /* SwiftyStoreKit.framework in Embed Frameworks */,
+				C4FD3A111C2954CD0035CFF3 /* LYSwiftyStoreKit.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -193,29 +181,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		2F2B8B2124A64CC000CEF088 /* SKProductDiscount+LocalizedPrice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "SKProductDiscount+LocalizedPrice.swift"; path = "Sources/SwiftyStoreKit/SKProductDiscount+LocalizedPrice.swift"; sourceTree = SOURCE_ROOT; };
-		2F2B8B2224A64CC000CEF088 /* AppleReceiptValidator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppleReceiptValidator.swift; path = Sources/SwiftyStoreKit/AppleReceiptValidator.swift; sourceTree = SOURCE_ROOT; };
-		2F2B8B2324A64CC000CEF088 /* InAppProductQueryRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 4; lastKnownFileType = sourcecode.swift; name = InAppProductQueryRequest.swift; path = Sources/SwiftyStoreKit/InAppProductQueryRequest.swift; sourceTree = SOURCE_ROOT; };
-		2F2B8B2424A64CC000CEF088 /* InAppReceipt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = InAppReceipt.swift; path = Sources/SwiftyStoreKit/InAppReceipt.swift; sourceTree = SOURCE_ROOT; };
-		2F2B8B2524A64CC000CEF088 /* SwiftyStoreKit+Types.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "SwiftyStoreKit+Types.swift"; path = "Sources/SwiftyStoreKit/SwiftyStoreKit+Types.swift"; sourceTree = SOURCE_ROOT; };
-		2F2B8B2624A64CC000CEF088 /* CompleteTransactionsController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CompleteTransactionsController.swift; path = Sources/SwiftyStoreKit/CompleteTransactionsController.swift; sourceTree = SOURCE_ROOT; };
-		2F2B8B2724A64CC000CEF088 /* PaymentQueueController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PaymentQueueController.swift; path = Sources/SwiftyStoreKit/PaymentQueueController.swift; sourceTree = SOURCE_ROOT; };
-		2F2B8B2824A64CC000CEF088 /* InAppReceiptRefreshRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = InAppReceiptRefreshRequest.swift; path = Sources/SwiftyStoreKit/InAppReceiptRefreshRequest.swift; sourceTree = SOURCE_ROOT; };
-		2F2B8B2924A64CC100CEF088 /* InAppReceiptVerificator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = InAppReceiptVerificator.swift; path = Sources/SwiftyStoreKit/InAppReceiptVerificator.swift; sourceTree = SOURCE_ROOT; };
-		2F2B8B2A24A64CC100CEF088 /* SKProduct+LocalizedPrice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "SKProduct+LocalizedPrice.swift"; path = "Sources/SwiftyStoreKit/SKProduct+LocalizedPrice.swift"; sourceTree = SOURCE_ROOT; };
-		2F2B8B2B24A64CC100CEF088 /* ProductsInfoController.swift */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 4; lastKnownFileType = sourcecode.swift; name = ProductsInfoController.swift; path = Sources/SwiftyStoreKit/ProductsInfoController.swift; sourceTree = SOURCE_ROOT; };
-		2F2B8B2C24A64CC100CEF088 /* OS.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = OS.swift; path = Sources/SwiftyStoreKit/OS.swift; sourceTree = SOURCE_ROOT; };
-		2F2B8B2D24A64CC100CEF088 /* PaymentsController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PaymentsController.swift; path = Sources/SwiftyStoreKit/PaymentsController.swift; sourceTree = SOURCE_ROOT; };
-		2F2B8B2E24A64CC100CEF088 /* SwiftyStoreKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwiftyStoreKit.swift; path = Sources/SwiftyStoreKit/SwiftyStoreKit.swift; sourceTree = SOURCE_ROOT; };
-		2F2B8B2F24A64CC100CEF088 /* RestorePurchasesController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RestorePurchasesController.swift; path = Sources/SwiftyStoreKit/RestorePurchasesController.swift; sourceTree = SOURCE_ROOT; };
-		2F2B8B6C24A64CD700CEF088 /* SwiftyStoreKit-watchOS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "SwiftyStoreKit-watchOS.h"; path = "Sources/SwiftyStoreKit/Platforms/SwiftyStoreKit-watchOS.h"; sourceTree = SOURCE_ROOT; };
-		2F2B8B6D24A64CD700CEF088 /* Info-macOS.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; name = "Info-macOS.plist"; path = "Sources/SwiftyStoreKit/Platforms/Info-macOS.plist"; sourceTree = SOURCE_ROOT; };
-		2F2B8B6E24A64CD700CEF088 /* Info-watchOS.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; name = "Info-watchOS.plist"; path = "Sources/SwiftyStoreKit/Platforms/Info-watchOS.plist"; sourceTree = SOURCE_ROOT; };
-		2F2B8B6F24A64CD700CEF088 /* Info-iOS.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; name = "Info-iOS.plist"; path = "Sources/SwiftyStoreKit/Platforms/Info-iOS.plist"; sourceTree = SOURCE_ROOT; };
-		2F2B8B7024A64CD700CEF088 /* SwiftyStoreKit-tvOS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "SwiftyStoreKit-tvOS.h"; path = "Sources/SwiftyStoreKit/Platforms/SwiftyStoreKit-tvOS.h"; sourceTree = SOURCE_ROOT; };
-		2F2B8B7124A64CD700CEF088 /* SwiftyStoreKit-iOS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "SwiftyStoreKit-iOS.h"; path = "Sources/SwiftyStoreKit/Platforms/SwiftyStoreKit-iOS.h"; sourceTree = SOURCE_ROOT; };
-		2F2B8B7224A64CD700CEF088 /* SwiftyStoreKit-macOS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "SwiftyStoreKit-macOS.h"; path = "Sources/SwiftyStoreKit/Platforms/SwiftyStoreKit-macOS.h"; sourceTree = SOURCE_ROOT; };
-		2F2B8B7324A64CD700CEF088 /* Info-tvOS.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; name = "Info-tvOS.plist"; path = "Sources/SwiftyStoreKit/Platforms/Info-tvOS.plist"; sourceTree = SOURCE_ROOT; };
 		2F2B8B9424A64DE600CEF088 /* PaymentQueueControllerTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PaymentQueueControllerTests.swift; path = Tests/SwiftyStoreKitTests/PaymentQueueControllerTests.swift; sourceTree = SOURCE_ROOT; };
 		2F2B8B9524A64DE600CEF088 /* PaymentTransactionObserverFake.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PaymentTransactionObserverFake.swift; path = Tests/SwiftyStoreKitTests/PaymentTransactionObserverFake.swift; sourceTree = SOURCE_ROOT; };
 		2F2B8B9624A64DE600CEF088 /* ProductsInfoControllerTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ProductsInfoControllerTests.swift; path = Tests/SwiftyStoreKitTests/ProductsInfoControllerTests.swift; sourceTree = SOURCE_ROOT; };
@@ -228,14 +193,14 @@
 		2F2B8B9D24A64DE600CEF088 /* PaymentsControllerTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PaymentsControllerTests.swift; path = Tests/SwiftyStoreKitTests/PaymentsControllerTests.swift; sourceTree = SOURCE_ROOT; };
 		2F2B8B9E24A64DE600CEF088 /* Info-Tests.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info-Tests.plist"; path = "Tests/SwiftyStoreKitTests/Info-Tests.plist"; sourceTree = SOURCE_ROOT; };
 		2F2B8B9F24A64DE600CEF088 /* PaymentQueueSpy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PaymentQueueSpy.swift; path = Tests/SwiftyStoreKitTests/PaymentQueueSpy.swift; sourceTree = SOURCE_ROOT; };
-		54C0D52C1CF7404500F90BCE /* SwiftyStoreKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyStoreKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		6502F5FE1B985833004E342D /* SwiftyStoreKit_iOSDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftyStoreKit_iOSDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		6502F62D1B985C40004E342D /* SwiftyStoreKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyStoreKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		654287EE1E79F5A000F61800 /* SwiftyStoreKit_tvOSDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftyStoreKit_tvOSDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		54C0D52C1CF7404500F90BCE /* LYSwiftyStoreKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LYSwiftyStoreKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6502F5FE1B985833004E342D /* LYSwiftyStoreKit_iOSDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LYSwiftyStoreKit_iOSDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6502F62D1B985C40004E342D /* LYSwiftyStoreKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LYSwiftyStoreKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		654287EE1E79F5A000F61800 /* LYSwiftyStoreKit_tvOSDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LYSwiftyStoreKit_tvOSDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		654287F51E79F5A000F61800 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		654287F71E79F5A000F61800 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		654287F91E79F5A000F61800 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		658A083E1E2EC5120074A98F /* SwiftyStoreKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftyStoreKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		658A083E1E2EC5120074A98F /* LYSwiftyStoreKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LYSwiftyStoreKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		65F7DF681DCD4DF000835D30 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65F7DF691DCD4DF000835D30 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65F7DF6B1DCD4DF000835D30 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -248,9 +213,25 @@
 		65F7DF811DCD4FC500835D30 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		65F7DF821DCD4FC500835D30 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		65F7DF831DCD4FC500835D30 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		A61BF4DD2481F4970017D9BC /* SwiftyStoreKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyStoreKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C4D74BBB1C24CEC90071AD3E /* SwiftyStoreKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyStoreKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C4FD3A011C2954C10035CFF3 /* SwiftyStoreKit_macOSDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftyStoreKit_macOSDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A61BF4DD2481F4970017D9BC /* LYSwiftyStoreKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LYSwiftyStoreKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B89B451D2BA00BAF00632E93 /* SKProductDiscount+LocalizedPrice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "SKProductDiscount+LocalizedPrice.swift"; path = "Sources/LYSwiftyStoreKit/SKProductDiscount+LocalizedPrice.swift"; sourceTree = SOURCE_ROOT; };
+		B89B451E2BA00BAF00632E93 /* SKProduct+LocalizedPrice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "SKProduct+LocalizedPrice.swift"; path = "Sources/LYSwiftyStoreKit/SKProduct+LocalizedPrice.swift"; sourceTree = SOURCE_ROOT; };
+		B89B451F2BA00BAF00632E93 /* PaymentsController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PaymentsController.swift; path = Sources/LYSwiftyStoreKit/PaymentsController.swift; sourceTree = SOURCE_ROOT; };
+		B89B45202BA00BB000632E93 /* RestorePurchasesController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RestorePurchasesController.swift; path = Sources/LYSwiftyStoreKit/RestorePurchasesController.swift; sourceTree = SOURCE_ROOT; };
+		B89B45212BA00BB000632E93 /* AppleReceiptValidator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppleReceiptValidator.swift; path = Sources/LYSwiftyStoreKit/AppleReceiptValidator.swift; sourceTree = SOURCE_ROOT; };
+		B89B45222BA00BB000632E93 /* InAppReceiptRefreshRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = InAppReceiptRefreshRequest.swift; path = Sources/LYSwiftyStoreKit/InAppReceiptRefreshRequest.swift; sourceTree = SOURCE_ROOT; };
+		B89B45232BA00BB100632E93 /* InAppProductQueryRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = InAppProductQueryRequest.swift; path = Sources/LYSwiftyStoreKit/InAppProductQueryRequest.swift; sourceTree = SOURCE_ROOT; };
+		B89B45242BA00BB100632E93 /* CompleteTransactionsController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CompleteTransactionsController.swift; path = Sources/LYSwiftyStoreKit/CompleteTransactionsController.swift; sourceTree = SOURCE_ROOT; };
+		B89B45252BA00BB100632E93 /* InAppReceipt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = InAppReceipt.swift; path = Sources/LYSwiftyStoreKit/InAppReceipt.swift; sourceTree = SOURCE_ROOT; };
+		B89B45262BA00BB100632E93 /* ProductsInfoController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ProductsInfoController.swift; path = Sources/LYSwiftyStoreKit/ProductsInfoController.swift; sourceTree = SOURCE_ROOT; };
+		B89B45272BA00BB200632E93 /* InAppReceiptVerificator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = InAppReceiptVerificator.swift; path = Sources/LYSwiftyStoreKit/InAppReceiptVerificator.swift; sourceTree = SOURCE_ROOT; };
+		B89B45282BA00BB300632E93 /* PaymentQueueController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PaymentQueueController.swift; path = Sources/LYSwiftyStoreKit/PaymentQueueController.swift; sourceTree = SOURCE_ROOT; };
+		B89B45292BA00BB400632E93 /* OS.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = OS.swift; path = Sources/LYSwiftyStoreKit/OS.swift; sourceTree = SOURCE_ROOT; };
+		B89B452A2BA00BB400632E93 /* SwiftyStoreKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwiftyStoreKit.swift; path = Sources/LYSwiftyStoreKit/SwiftyStoreKit.swift; sourceTree = SOURCE_ROOT; };
+		B89B452B2BA00BB500632E93 /* Platforms */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Platforms; path = Sources/LYSwiftyStoreKit/Platforms; sourceTree = SOURCE_ROOT; };
+		B89B452C2BA00BB500632E93 /* SwiftyStoreKit+Types.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "SwiftyStoreKit+Types.swift"; path = "Sources/LYSwiftyStoreKit/SwiftyStoreKit+Types.swift"; sourceTree = SOURCE_ROOT; };
+		C4D74BBB1C24CEC90071AD3E /* LYSwiftyStoreKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LYSwiftyStoreKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C4FD3A011C2954C10035CFF3 /* LYSwiftyStoreKit_macOSDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LYSwiftyStoreKit_macOSDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -265,7 +246,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				65F7DF8E1DCD524300835D30 /* SwiftyStoreKit.framework in Frameworks */,
+				65F7DF8E1DCD524300835D30 /* LYSwiftyStoreKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,7 +261,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				654287FD1E79F75000F61800 /* SwiftyStoreKit.framework in Frameworks */,
+				654287FD1E79F75000F61800 /* LYSwiftyStoreKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,7 +269,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				658A08431E2EC5120074A98F /* SwiftyStoreKit.framework in Frameworks */,
+				658A08431E2EC5120074A98F /* LYSwiftyStoreKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,7 +291,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C4FD3A101C2954CD0035CFF3 /* SwiftyStoreKit.framework in Frameworks */,
+				C4FD3A101C2954CD0035CFF3 /* LYSwiftyStoreKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -320,7 +301,7 @@
 		6502F5F51B985833004E342D = {
 			isa = PBXGroup;
 			children = (
-				6502F6001B985833004E342D /* SwiftyStoreKit */,
+				6502F6001B985833004E342D /* LYSwiftyStoreKit */,
 				65F7DF671DCD4DF000835D30 /* SwiftyStoreKit-iOS-Demo */,
 				65F7DF7D1DCD4FC500835D30 /* SwiftyStoreKit-macOS-Demo */,
 				654287EF1E79F5A000F61800 /* SwiftyStoreKit-tvOS-Demo */,
@@ -332,39 +313,39 @@
 		6502F5FF1B985833004E342D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6502F5FE1B985833004E342D /* SwiftyStoreKit_iOSDemo.app */,
-				6502F62D1B985C40004E342D /* SwiftyStoreKit.framework */,
-				C4D74BBB1C24CEC90071AD3E /* SwiftyStoreKit.framework */,
-				C4FD3A011C2954C10035CFF3 /* SwiftyStoreKit_macOSDemo.app */,
-				54C0D52C1CF7404500F90BCE /* SwiftyStoreKit.framework */,
-				658A083E1E2EC5120074A98F /* SwiftyStoreKitTests.xctest */,
-				654287EE1E79F5A000F61800 /* SwiftyStoreKit_tvOSDemo.app */,
-				A61BF4DD2481F4970017D9BC /* SwiftyStoreKit.framework */,
+				6502F5FE1B985833004E342D /* LYSwiftyStoreKit_iOSDemo.app */,
+				6502F62D1B985C40004E342D /* LYSwiftyStoreKit.framework */,
+				C4D74BBB1C24CEC90071AD3E /* LYSwiftyStoreKit.framework */,
+				C4FD3A011C2954C10035CFF3 /* LYSwiftyStoreKit_macOSDemo.app */,
+				54C0D52C1CF7404500F90BCE /* LYSwiftyStoreKit.framework */,
+				658A083E1E2EC5120074A98F /* LYSwiftyStoreKitTests.xctest */,
+				654287EE1E79F5A000F61800 /* LYSwiftyStoreKit_tvOSDemo.app */,
+				A61BF4DD2481F4970017D9BC /* LYSwiftyStoreKit.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6502F6001B985833004E342D /* SwiftyStoreKit */ = {
+		6502F6001B985833004E342D /* LYSwiftyStoreKit */ = {
 			isa = PBXGroup;
 			children = (
-				2F2B8B2224A64CC000CEF088 /* AppleReceiptValidator.swift */,
-				2F2B8B2624A64CC000CEF088 /* CompleteTransactionsController.swift */,
-				2F2B8B2324A64CC000CEF088 /* InAppProductQueryRequest.swift */,
-				2F2B8B2424A64CC000CEF088 /* InAppReceipt.swift */,
-				2F2B8B2824A64CC000CEF088 /* InAppReceiptRefreshRequest.swift */,
-				2F2B8B2924A64CC100CEF088 /* InAppReceiptVerificator.swift */,
-				2F2B8B2C24A64CC100CEF088 /* OS.swift */,
-				2F2B8B2724A64CC000CEF088 /* PaymentQueueController.swift */,
-				2F2B8B2D24A64CC100CEF088 /* PaymentsController.swift */,
-				2F2B8B2B24A64CC100CEF088 /* ProductsInfoController.swift */,
-				2F2B8B2F24A64CC100CEF088 /* RestorePurchasesController.swift */,
-				2F2B8B2A24A64CC100CEF088 /* SKProduct+LocalizedPrice.swift */,
-				2F2B8B2124A64CC000CEF088 /* SKProductDiscount+LocalizedPrice.swift */,
-				2F2B8B2E24A64CC100CEF088 /* SwiftyStoreKit.swift */,
-				2F2B8B2524A64CC000CEF088 /* SwiftyStoreKit+Types.swift */,
-				65F7DF931DCD536100835D30 /* Platforms */,
+				B89B45212BA00BB000632E93 /* AppleReceiptValidator.swift */,
+				B89B45242BA00BB100632E93 /* CompleteTransactionsController.swift */,
+				B89B45232BA00BB100632E93 /* InAppProductQueryRequest.swift */,
+				B89B45252BA00BB100632E93 /* InAppReceipt.swift */,
+				B89B45222BA00BB000632E93 /* InAppReceiptRefreshRequest.swift */,
+				B89B45272BA00BB200632E93 /* InAppReceiptVerificator.swift */,
+				B89B45292BA00BB400632E93 /* OS.swift */,
+				B89B45282BA00BB300632E93 /* PaymentQueueController.swift */,
+				B89B451F2BA00BAF00632E93 /* PaymentsController.swift */,
+				B89B452B2BA00BB500632E93 /* Platforms */,
+				B89B45262BA00BB100632E93 /* ProductsInfoController.swift */,
+				B89B45202BA00BB000632E93 /* RestorePurchasesController.swift */,
+				B89B451E2BA00BAF00632E93 /* SKProduct+LocalizedPrice.swift */,
+				B89B451D2BA00BAF00632E93 /* SKProductDiscount+LocalizedPrice.swift */,
+				B89B452A2BA00BB400632E93 /* SwiftyStoreKit.swift */,
+				B89B452C2BA00BB500632E93 /* SwiftyStoreKit+Types.swift */,
 			);
-			path = SwiftyStoreKit;
+			path = LYSwiftyStoreKit;
 			sourceTree = "<group>";
 		};
 		654287EF1E79F5A000F61800 /* SwiftyStoreKit-tvOS-Demo */ = {
@@ -422,21 +403,6 @@
 			path = "SwiftyStoreKit-macOS-Demo";
 			sourceTree = "<group>";
 		};
-		65F7DF931DCD536100835D30 /* Platforms */ = {
-			isa = PBXGroup;
-			children = (
-				2F2B8B6F24A64CD700CEF088 /* Info-iOS.plist */,
-				2F2B8B6D24A64CD700CEF088 /* Info-macOS.plist */,
-				2F2B8B7324A64CD700CEF088 /* Info-tvOS.plist */,
-				2F2B8B6E24A64CD700CEF088 /* Info-watchOS.plist */,
-				2F2B8B7124A64CD700CEF088 /* SwiftyStoreKit-iOS.h */,
-				2F2B8B7224A64CD700CEF088 /* SwiftyStoreKit-macOS.h */,
-				2F2B8B7024A64CD700CEF088 /* SwiftyStoreKit-tvOS.h */,
-				2F2B8B6C24A64CD700CEF088 /* SwiftyStoreKit-watchOS.h */,
-			);
-			path = Platforms;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -444,10 +410,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2F2B8B8A24A64CD700CEF088 /* SwiftyStoreKit-iOS.h in Headers */,
-				2F2B8B7624A64CD700CEF088 /* SwiftyStoreKit-watchOS.h in Headers */,
-				2F2B8B8624A64CD700CEF088 /* SwiftyStoreKit-tvOS.h in Headers */,
-				2F2B8B8E24A64CD700CEF088 /* SwiftyStoreKit-macOS.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -455,10 +417,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2F2B8B8824A64CD700CEF088 /* SwiftyStoreKit-iOS.h in Headers */,
-				2F2B8B7424A64CD700CEF088 /* SwiftyStoreKit-watchOS.h in Headers */,
-				2F2B8B8424A64CD700CEF088 /* SwiftyStoreKit-tvOS.h in Headers */,
-				2F2B8B8C24A64CD700CEF088 /* SwiftyStoreKit-macOS.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -466,10 +424,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2F2B8B8B24A64CD700CEF088 /* SwiftyStoreKit-iOS.h in Headers */,
-				2F2B8B7724A64CD700CEF088 /* SwiftyStoreKit-watchOS.h in Headers */,
-				2F2B8B8724A64CD700CEF088 /* SwiftyStoreKit-tvOS.h in Headers */,
-				2F2B8B8F24A64CD700CEF088 /* SwiftyStoreKit-macOS.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -477,19 +431,15 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2F2B8B8924A64CD700CEF088 /* SwiftyStoreKit-iOS.h in Headers */,
-				2F2B8B7524A64CD700CEF088 /* SwiftyStoreKit-watchOS.h in Headers */,
-				2F2B8B8524A64CD700CEF088 /* SwiftyStoreKit-tvOS.h in Headers */,
-				2F2B8B8D24A64CD700CEF088 /* SwiftyStoreKit-macOS.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		54C0D52B1CF7404500F90BCE /* SwiftyStoreKit_tvOS */ = {
+		54C0D52B1CF7404500F90BCE /* LYSwiftyStoreKit_tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 54C0D5331CF7404500F90BCE /* Build configuration list for PBXNativeTarget "SwiftyStoreKit_tvOS" */;
+			buildConfigurationList = 54C0D5331CF7404500F90BCE /* Build configuration list for PBXNativeTarget "LYSwiftyStoreKit_tvOS" */;
 			buildPhases = (
 				54C0D5271CF7404500F90BCE /* Sources */,
 				54C0D5281CF7404500F90BCE /* Frameworks */,
@@ -500,14 +450,14 @@
 			);
 			dependencies = (
 			);
-			name = SwiftyStoreKit_tvOS;
+			name = LYSwiftyStoreKit_tvOS;
 			productName = SwiftyStoreKitTV;
-			productReference = 54C0D52C1CF7404500F90BCE /* SwiftyStoreKit.framework */;
+			productReference = 54C0D52C1CF7404500F90BCE /* LYSwiftyStoreKit.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		6502F5FD1B985833004E342D /* SwiftyStoreKit_iOSDemo */ = {
+		6502F5FD1B985833004E342D /* LYSwiftyStoreKit_iOSDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6502F6101B985833004E342D /* Build configuration list for PBXNativeTarget "SwiftyStoreKit_iOSDemo" */;
+			buildConfigurationList = 6502F6101B985833004E342D /* Build configuration list for PBXNativeTarget "LYSwiftyStoreKit_iOSDemo" */;
 			buildPhases = (
 				6502F5FA1B985833004E342D /* Sources */,
 				6502F5FB1B985833004E342D /* Frameworks */,
@@ -519,14 +469,14 @@
 			dependencies = (
 				65F7DF911DCD524300835D30 /* PBXTargetDependency */,
 			);
-			name = SwiftyStoreKit_iOSDemo;
+			name = LYSwiftyStoreKit_iOSDemo;
 			productName = SwiftyStoreKit;
-			productReference = 6502F5FE1B985833004E342D /* SwiftyStoreKit_iOSDemo.app */;
+			productReference = 6502F5FE1B985833004E342D /* LYSwiftyStoreKit_iOSDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
-		6502F62C1B985C40004E342D /* SwiftyStoreKit_iOS */ = {
+		6502F62C1B985C40004E342D /* LYSwiftyStoreKit_iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6502F6361B985C40004E342D /* Build configuration list for PBXNativeTarget "SwiftyStoreKit_iOS" */;
+			buildConfigurationList = 6502F6361B985C40004E342D /* Build configuration list for PBXNativeTarget "LYSwiftyStoreKit_iOS" */;
 			buildPhases = (
 				6502F6281B985C40004E342D /* Sources */,
 				6502F6291B985C40004E342D /* Frameworks */,
@@ -538,14 +488,14 @@
 			);
 			dependencies = (
 			);
-			name = SwiftyStoreKit_iOS;
+			name = LYSwiftyStoreKit_iOS;
 			productName = SwiftyStoreKit;
-			productReference = 6502F62D1B985C40004E342D /* SwiftyStoreKit.framework */;
+			productReference = 6502F62D1B985C40004E342D /* LYSwiftyStoreKit.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		654287ED1E79F5A000F61800 /* SwiftyStoreKit_tvOSDemo */ = {
+		654287ED1E79F5A000F61800 /* LYSwiftyStoreKit_tvOSDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 654287FC1E79F5A000F61800 /* Build configuration list for PBXNativeTarget "SwiftyStoreKit_tvOSDemo" */;
+			buildConfigurationList = 654287FC1E79F5A000F61800 /* Build configuration list for PBXNativeTarget "LYSwiftyStoreKit_tvOSDemo" */;
 			buildPhases = (
 				654287EA1E79F5A000F61800 /* Sources */,
 				654287EB1E79F5A000F61800 /* Frameworks */,
@@ -557,14 +507,14 @@
 			dependencies = (
 				654288001E79F75000F61800 /* PBXTargetDependency */,
 			);
-			name = SwiftyStoreKit_tvOSDemo;
+			name = LYSwiftyStoreKit_tvOSDemo;
 			productName = "SwiftyStoreKit-tvOS-Demo";
-			productReference = 654287EE1E79F5A000F61800 /* SwiftyStoreKit_tvOSDemo.app */;
+			productReference = 654287EE1E79F5A000F61800 /* LYSwiftyStoreKit_tvOSDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
-		658A083D1E2EC5120074A98F /* SwiftyStoreKitTests */ = {
+		658A083D1E2EC5120074A98F /* LYSwiftyStoreKitTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 658A08461E2EC5120074A98F /* Build configuration list for PBXNativeTarget "SwiftyStoreKitTests" */;
+			buildConfigurationList = 658A08461E2EC5120074A98F /* Build configuration list for PBXNativeTarget "LYSwiftyStoreKitTests" */;
 			buildPhases = (
 				658A083A1E2EC5120074A98F /* Sources */,
 				658A083B1E2EC5120074A98F /* Frameworks */,
@@ -576,14 +526,14 @@
 				658A08451E2EC5120074A98F /* PBXTargetDependency */,
 				658A084E1E2EC83F0074A98F /* PBXTargetDependency */,
 			);
-			name = SwiftyStoreKitTests;
+			name = LYSwiftyStoreKitTests;
 			productName = SwiftyStoreKitTests;
-			productReference = 658A083E1E2EC5120074A98F /* SwiftyStoreKitTests.xctest */;
+			productReference = 658A083E1E2EC5120074A98F /* LYSwiftyStoreKitTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		A61BF4C42481F4970017D9BC /* SwiftyStoreKit_watchOS */ = {
+		A61BF4C42481F4970017D9BC /* LYSwiftyStoreKit_watchOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A61BF4DA2481F4970017D9BC /* Build configuration list for PBXNativeTarget "SwiftyStoreKit_watchOS" */;
+			buildConfigurationList = A61BF4DA2481F4970017D9BC /* Build configuration list for PBXNativeTarget "LYSwiftyStoreKit_watchOS" */;
 			buildPhases = (
 				A61BF4C52481F4970017D9BC /* Sources */,
 				A61BF4D62481F4970017D9BC /* Headers */,
@@ -595,14 +545,14 @@
 			);
 			dependencies = (
 			);
-			name = SwiftyStoreKit_watchOS;
+			name = LYSwiftyStoreKit_watchOS;
 			productName = SwiftyStoreKit;
-			productReference = A61BF4DD2481F4970017D9BC /* SwiftyStoreKit.framework */;
+			productReference = A61BF4DD2481F4970017D9BC /* LYSwiftyStoreKit.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		C4D74BBA1C24CEC90071AD3E /* SwiftyStoreKit_macOS */ = {
+		C4D74BBA1C24CEC90071AD3E /* LYSwiftyStoreKit_macOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C4D74BC21C24CECA0071AD3E /* Build configuration list for PBXNativeTarget "SwiftyStoreKit_macOS" */;
+			buildConfigurationList = C4D74BC21C24CECA0071AD3E /* Build configuration list for PBXNativeTarget "LYSwiftyStoreKit_macOS" */;
 			buildPhases = (
 				C4D74BB61C24CEC90071AD3E /* Sources */,
 				C4D74BB71C24CEC90071AD3E /* Frameworks */,
@@ -614,14 +564,14 @@
 			);
 			dependencies = (
 			);
-			name = SwiftyStoreKit_macOS;
+			name = LYSwiftyStoreKit_macOS;
 			productName = SwiftyStoreKitOSX;
-			productReference = C4D74BBB1C24CEC90071AD3E /* SwiftyStoreKit.framework */;
+			productReference = C4D74BBB1C24CEC90071AD3E /* LYSwiftyStoreKit.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		C4FD3A001C2954C10035CFF3 /* SwiftyStoreKit_macOSDemo */ = {
+		C4FD3A001C2954C10035CFF3 /* LYSwiftyStoreKit_macOSDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C4FD3A0D1C2954C10035CFF3 /* Build configuration list for PBXNativeTarget "SwiftyStoreKit_macOSDemo" */;
+			buildConfigurationList = C4FD3A0D1C2954C10035CFF3 /* Build configuration list for PBXNativeTarget "LYSwiftyStoreKit_macOSDemo" */;
 			buildPhases = (
 				C4FD39FD1C2954C10035CFF3 /* Sources */,
 				C4FD39FE1C2954C10035CFF3 /* Frameworks */,
@@ -633,9 +583,9 @@
 			dependencies = (
 				C4FD3A131C2954CD0035CFF3 /* PBXTargetDependency */,
 			);
-			name = SwiftyStoreKit_macOSDemo;
+			name = LYSwiftyStoreKit_macOSDemo;
 			productName = SwiftyStoreOSXDemo;
-			productReference = C4FD3A011C2954C10035CFF3 /* SwiftyStoreKit_macOSDemo.app */;
+			productReference = C4FD3A011C2954C10035CFF3 /* LYSwiftyStoreKit_macOSDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -651,7 +601,7 @@
 					54C0D52B1CF7404500F90BCE = {
 						CreatedOnToolsVersion = 7.3.1;
 						DevelopmentTeam = M54ZVB688G;
-						LastSwiftMigration = 1150;
+						LastSwiftMigration = 1520;
 					};
 					6502F5FD1B985833004E342D = {
 						CreatedOnToolsVersion = 7.0;
@@ -660,7 +610,7 @@
 					};
 					6502F62C1B985C40004E342D = {
 						CreatedOnToolsVersion = 7.0;
-						LastSwiftMigration = 1150;
+						LastSwiftMigration = 1520;
 					};
 					654287ED1E79F5A000F61800 = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -673,11 +623,11 @@
 						TestTargetID = 6502F5FD1B985833004E342D;
 					};
 					A61BF4C42481F4970017D9BC = {
-						LastSwiftMigration = 1150;
+						LastSwiftMigration = 1520;
 					};
 					C4D74BBA1C24CEC90071AD3E = {
 						CreatedOnToolsVersion = 7.2;
-						LastSwiftMigration = 1150;
+						LastSwiftMigration = 1520;
 					};
 					C4FD3A001C2954C10035CFF3 = {
 						CreatedOnToolsVersion = 7.2;
@@ -685,7 +635,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6502F5F91B985833004E342D /* Build configuration list for PBXProject "SwiftyStoreKit" */;
+			buildConfigurationList = 6502F5F91B985833004E342D /* Build configuration list for PBXProject "LYSwiftyStoreKit" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -698,14 +648,14 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6502F62C1B985C40004E342D /* SwiftyStoreKit_iOS */,
-				C4D74BBA1C24CEC90071AD3E /* SwiftyStoreKit_macOS */,
-				54C0D52B1CF7404500F90BCE /* SwiftyStoreKit_tvOS */,
-				A61BF4C42481F4970017D9BC /* SwiftyStoreKit_watchOS */,
-				6502F5FD1B985833004E342D /* SwiftyStoreKit_iOSDemo */,
-				C4FD3A001C2954C10035CFF3 /* SwiftyStoreKit_macOSDemo */,
-				654287ED1E79F5A000F61800 /* SwiftyStoreKit_tvOSDemo */,
-				658A083D1E2EC5120074A98F /* SwiftyStoreKitTests */,
+				6502F62C1B985C40004E342D /* LYSwiftyStoreKit_iOS */,
+				C4D74BBA1C24CEC90071AD3E /* LYSwiftyStoreKit_macOS */,
+				54C0D52B1CF7404500F90BCE /* LYSwiftyStoreKit_tvOS */,
+				A61BF4C42481F4970017D9BC /* LYSwiftyStoreKit_watchOS */,
+				6502F5FD1B985833004E342D /* LYSwiftyStoreKit_iOSDemo */,
+				C4FD3A001C2954C10035CFF3 /* LYSwiftyStoreKit_macOSDemo */,
+				654287ED1E79F5A000F61800 /* LYSwiftyStoreKit_tvOSDemo */,
+				658A083D1E2EC5120074A98F /* LYSwiftyStoreKitTests */,
 			);
 		};
 /* End PBXProject section */
@@ -715,6 +665,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B89B45672BA00BB600632E93 /* Platforms in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -732,6 +683,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B89B45652BA00BB600632E93 /* Platforms in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -755,6 +707,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B89B45682BA00BB600632E93 /* Platforms in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -762,6 +715,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B89B45662BA00BB600632E93 /* Platforms in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -826,21 +780,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2F2B8B3A24A64CC100CEF088 /* InAppProductQueryRequest.swift in Sources */,
-				2F2B8B6224A64CC100CEF088 /* PaymentsController.swift in Sources */,
-				2F2B8B5624A64CC100CEF088 /* SKProduct+LocalizedPrice.swift in Sources */,
-				2F2B8B3E24A64CC100CEF088 /* InAppReceipt.swift in Sources */,
-				2F2B8B3624A64CC100CEF088 /* AppleReceiptValidator.swift in Sources */,
-				2F2B8B6A24A64CC100CEF088 /* RestorePurchasesController.swift in Sources */,
-				2F2B8B4624A64CC100CEF088 /* CompleteTransactionsController.swift in Sources */,
-				2F2B8B5E24A64CC100CEF088 /* OS.swift in Sources */,
-				2F2B8B5224A64CC100CEF088 /* InAppReceiptVerificator.swift in Sources */,
-				2F2B8B6624A64CC100CEF088 /* SwiftyStoreKit.swift in Sources */,
-				2F2B8B4A24A64CC100CEF088 /* PaymentQueueController.swift in Sources */,
-				2F2B8B4224A64CC100CEF088 /* SwiftyStoreKit+Types.swift in Sources */,
-				2F2B8B4E24A64CC100CEF088 /* InAppReceiptRefreshRequest.swift in Sources */,
-				2F2B8B3224A64CC100CEF088 /* SKProductDiscount+LocalizedPrice.swift in Sources */,
-				2F2B8B5A24A64CC100CEF088 /* ProductsInfoController.swift in Sources */,
+				B89B453F2BA00BB600632E93 /* AppleReceiptValidator.swift in Sources */,
+				B89B45472BA00BB600632E93 /* InAppProductQueryRequest.swift in Sources */,
+				B89B455B2BA00BB600632E93 /* PaymentQueueController.swift in Sources */,
+				B89B452F2BA00BB500632E93 /* SKProductDiscount+LocalizedPrice.swift in Sources */,
+				B89B45372BA00BB600632E93 /* PaymentsController.swift in Sources */,
+				B89B453B2BA00BB600632E93 /* RestorePurchasesController.swift in Sources */,
+				B89B454B2BA00BB600632E93 /* CompleteTransactionsController.swift in Sources */,
+				B89B45572BA00BB600632E93 /* InAppReceiptVerificator.swift in Sources */,
+				B89B45632BA00BB600632E93 /* SwiftyStoreKit.swift in Sources */,
+				B89B455F2BA00BB600632E93 /* OS.swift in Sources */,
+				B89B45432BA00BB600632E93 /* InAppReceiptRefreshRequest.swift in Sources */,
+				B89B45532BA00BB600632E93 /* ProductsInfoController.swift in Sources */,
+				B89B45332BA00BB600632E93 /* SKProduct+LocalizedPrice.swift in Sources */,
+				B89B456B2BA00BB600632E93 /* SwiftyStoreKit+Types.swift in Sources */,
+				B89B454F2BA00BB600632E93 /* InAppReceipt.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -858,21 +812,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2F2B8B3824A64CC100CEF088 /* InAppProductQueryRequest.swift in Sources */,
-				2F2B8B6024A64CC100CEF088 /* PaymentsController.swift in Sources */,
-				2F2B8B5424A64CC100CEF088 /* SKProduct+LocalizedPrice.swift in Sources */,
-				2F2B8B3C24A64CC100CEF088 /* InAppReceipt.swift in Sources */,
-				2F2B8B3424A64CC100CEF088 /* AppleReceiptValidator.swift in Sources */,
-				2F2B8B6824A64CC100CEF088 /* RestorePurchasesController.swift in Sources */,
-				2F2B8B4424A64CC100CEF088 /* CompleteTransactionsController.swift in Sources */,
-				2F2B8B5C24A64CC100CEF088 /* OS.swift in Sources */,
-				2F2B8B5024A64CC100CEF088 /* InAppReceiptVerificator.swift in Sources */,
-				2F2B8B6424A64CC100CEF088 /* SwiftyStoreKit.swift in Sources */,
-				2F2B8B4824A64CC100CEF088 /* PaymentQueueController.swift in Sources */,
-				2F2B8B4024A64CC100CEF088 /* SwiftyStoreKit+Types.swift in Sources */,
-				2F2B8B4C24A64CC100CEF088 /* InAppReceiptRefreshRequest.swift in Sources */,
-				2F2B8B3024A64CC100CEF088 /* SKProductDiscount+LocalizedPrice.swift in Sources */,
-				2F2B8B5824A64CC100CEF088 /* ProductsInfoController.swift in Sources */,
+				B89B453D2BA00BB600632E93 /* AppleReceiptValidator.swift in Sources */,
+				B89B45452BA00BB600632E93 /* InAppProductQueryRequest.swift in Sources */,
+				B89B45592BA00BB600632E93 /* PaymentQueueController.swift in Sources */,
+				B89B452D2BA00BB500632E93 /* SKProductDiscount+LocalizedPrice.swift in Sources */,
+				B89B45352BA00BB600632E93 /* PaymentsController.swift in Sources */,
+				B89B45392BA00BB600632E93 /* RestorePurchasesController.swift in Sources */,
+				B89B45492BA00BB600632E93 /* CompleteTransactionsController.swift in Sources */,
+				B89B45552BA00BB600632E93 /* InAppReceiptVerificator.swift in Sources */,
+				B89B45612BA00BB600632E93 /* SwiftyStoreKit.swift in Sources */,
+				B89B455D2BA00BB600632E93 /* OS.swift in Sources */,
+				B89B45412BA00BB600632E93 /* InAppReceiptRefreshRequest.swift in Sources */,
+				B89B45512BA00BB600632E93 /* ProductsInfoController.swift in Sources */,
+				B89B45312BA00BB600632E93 /* SKProduct+LocalizedPrice.swift in Sources */,
+				B89B45692BA00BB600632E93 /* SwiftyStoreKit+Types.swift in Sources */,
+				B89B454D2BA00BB600632E93 /* InAppReceipt.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -908,21 +862,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2F2B8B3B24A64CC100CEF088 /* InAppProductQueryRequest.swift in Sources */,
-				2F2B8B6324A64CC100CEF088 /* PaymentsController.swift in Sources */,
-				2F2B8B5724A64CC100CEF088 /* SKProduct+LocalizedPrice.swift in Sources */,
-				2F2B8B3F24A64CC100CEF088 /* InAppReceipt.swift in Sources */,
-				2F2B8B3724A64CC100CEF088 /* AppleReceiptValidator.swift in Sources */,
-				2F2B8B6B24A64CC100CEF088 /* RestorePurchasesController.swift in Sources */,
-				2F2B8B4724A64CC100CEF088 /* CompleteTransactionsController.swift in Sources */,
-				2F2B8B5F24A64CC100CEF088 /* OS.swift in Sources */,
-				2F2B8B5324A64CC100CEF088 /* InAppReceiptVerificator.swift in Sources */,
-				2F2B8B6724A64CC100CEF088 /* SwiftyStoreKit.swift in Sources */,
-				2F2B8B4B24A64CC100CEF088 /* PaymentQueueController.swift in Sources */,
-				2F2B8B4324A64CC100CEF088 /* SwiftyStoreKit+Types.swift in Sources */,
-				2F2B8B4F24A64CC100CEF088 /* InAppReceiptRefreshRequest.swift in Sources */,
-				2F2B8B3324A64CC100CEF088 /* SKProductDiscount+LocalizedPrice.swift in Sources */,
-				2F2B8B5B24A64CC100CEF088 /* ProductsInfoController.swift in Sources */,
+				B89B45402BA00BB600632E93 /* AppleReceiptValidator.swift in Sources */,
+				B89B45482BA00BB600632E93 /* InAppProductQueryRequest.swift in Sources */,
+				B89B455C2BA00BB600632E93 /* PaymentQueueController.swift in Sources */,
+				B89B45302BA00BB600632E93 /* SKProductDiscount+LocalizedPrice.swift in Sources */,
+				B89B45382BA00BB600632E93 /* PaymentsController.swift in Sources */,
+				B89B453C2BA00BB600632E93 /* RestorePurchasesController.swift in Sources */,
+				B89B454C2BA00BB600632E93 /* CompleteTransactionsController.swift in Sources */,
+				B89B45582BA00BB600632E93 /* InAppReceiptVerificator.swift in Sources */,
+				B89B45642BA00BB600632E93 /* SwiftyStoreKit.swift in Sources */,
+				B89B45602BA00BB600632E93 /* OS.swift in Sources */,
+				B89B45442BA00BB600632E93 /* InAppReceiptRefreshRequest.swift in Sources */,
+				B89B45542BA00BB600632E93 /* ProductsInfoController.swift in Sources */,
+				B89B45342BA00BB600632E93 /* SKProduct+LocalizedPrice.swift in Sources */,
+				B89B456C2BA00BB600632E93 /* SwiftyStoreKit+Types.swift in Sources */,
+				B89B45502BA00BB600632E93 /* InAppReceipt.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -930,21 +884,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2F2B8B3924A64CC100CEF088 /* InAppProductQueryRequest.swift in Sources */,
-				2F2B8B6124A64CC100CEF088 /* PaymentsController.swift in Sources */,
-				2F2B8B5524A64CC100CEF088 /* SKProduct+LocalizedPrice.swift in Sources */,
-				2F2B8B3D24A64CC100CEF088 /* InAppReceipt.swift in Sources */,
-				2F2B8B3524A64CC100CEF088 /* AppleReceiptValidator.swift in Sources */,
-				2F2B8B6924A64CC100CEF088 /* RestorePurchasesController.swift in Sources */,
-				2F2B8B4524A64CC100CEF088 /* CompleteTransactionsController.swift in Sources */,
-				2F2B8B5D24A64CC100CEF088 /* OS.swift in Sources */,
-				2F2B8B5124A64CC100CEF088 /* InAppReceiptVerificator.swift in Sources */,
-				2F2B8B6524A64CC100CEF088 /* SwiftyStoreKit.swift in Sources */,
-				2F2B8B4924A64CC100CEF088 /* PaymentQueueController.swift in Sources */,
-				2F2B8B4124A64CC100CEF088 /* SwiftyStoreKit+Types.swift in Sources */,
-				2F2B8B4D24A64CC100CEF088 /* InAppReceiptRefreshRequest.swift in Sources */,
-				2F2B8B3124A64CC100CEF088 /* SKProductDiscount+LocalizedPrice.swift in Sources */,
-				2F2B8B5924A64CC100CEF088 /* ProductsInfoController.swift in Sources */,
+				B89B453E2BA00BB600632E93 /* AppleReceiptValidator.swift in Sources */,
+				B89B45462BA00BB600632E93 /* InAppProductQueryRequest.swift in Sources */,
+				B89B455A2BA00BB600632E93 /* PaymentQueueController.swift in Sources */,
+				B89B452E2BA00BB500632E93 /* SKProductDiscount+LocalizedPrice.swift in Sources */,
+				B89B45362BA00BB600632E93 /* PaymentsController.swift in Sources */,
+				B89B453A2BA00BB600632E93 /* RestorePurchasesController.swift in Sources */,
+				B89B454A2BA00BB600632E93 /* CompleteTransactionsController.swift in Sources */,
+				B89B45562BA00BB600632E93 /* InAppReceiptVerificator.swift in Sources */,
+				B89B45622BA00BB600632E93 /* SwiftyStoreKit.swift in Sources */,
+				B89B455E2BA00BB600632E93 /* OS.swift in Sources */,
+				B89B45422BA00BB600632E93 /* InAppReceiptRefreshRequest.swift in Sources */,
+				B89B45522BA00BB600632E93 /* ProductsInfoController.swift in Sources */,
+				B89B45322BA00BB600632E93 /* SKProduct+LocalizedPrice.swift in Sources */,
+				B89B456A2BA00BB600632E93 /* SwiftyStoreKit+Types.swift in Sources */,
+				B89B454E2BA00BB600632E93 /* InAppReceipt.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -962,27 +916,27 @@
 /* Begin PBXTargetDependency section */
 		654288001E79F75000F61800 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 54C0D52B1CF7404500F90BCE /* SwiftyStoreKit_tvOS */;
+			target = 54C0D52B1CF7404500F90BCE /* LYSwiftyStoreKit_tvOS */;
 			targetProxy = 654287FF1E79F75000F61800 /* PBXContainerItemProxy */;
 		};
 		658A08451E2EC5120074A98F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6502F62C1B985C40004E342D /* SwiftyStoreKit_iOS */;
+			target = 6502F62C1B985C40004E342D /* LYSwiftyStoreKit_iOS */;
 			targetProxy = 658A08441E2EC5120074A98F /* PBXContainerItemProxy */;
 		};
 		658A084E1E2EC83F0074A98F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6502F5FD1B985833004E342D /* SwiftyStoreKit_iOSDemo */;
+			target = 6502F5FD1B985833004E342D /* LYSwiftyStoreKit_iOSDemo */;
 			targetProxy = 658A084D1E2EC83F0074A98F /* PBXContainerItemProxy */;
 		};
 		65F7DF911DCD524300835D30 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6502F62C1B985C40004E342D /* SwiftyStoreKit_iOS */;
+			target = 6502F62C1B985C40004E342D /* LYSwiftyStoreKit_iOS */;
 			targetProxy = 65F7DF901DCD524300835D30 /* PBXContainerItemProxy */;
 		};
 		C4FD3A131C2954CD0035CFF3 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C4D74BBA1C24CEC90071AD3E /* SwiftyStoreKit_macOS */;
+			target = C4D74BBA1C24CEC90071AD3E /* LYSwiftyStoreKit_macOS */;
 			targetProxy = C4FD3A121C2954CD0035CFF3 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -1035,11 +989,11 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "$(SRCROOT)/Sources/SwiftyStoreKit/Platforms/Info-tvOS.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Sources/LYSwiftyStoreKit/Platforms/Info-tvOS.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.musevisions.tvOS.SwiftyStoreKit;
-				PRODUCT_NAME = SwiftyStoreKit;
+				PRODUCT_NAME = LYSwiftyStoreKit;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1063,11 +1017,11 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "$(SRCROOT)/Sources/SwiftyStoreKit/Platforms/Info-tvOS.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Sources/LYSwiftyStoreKit/Platforms/Info-tvOS.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.musevisions.tvOS.SwiftyStoreKit;
-				PRODUCT_NAME = SwiftyStoreKit;
+				PRODUCT_NAME = LYSwiftyStoreKit;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -1231,12 +1185,12 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "$(SRCROOT)/Sources/SwiftyStoreKit/Platforms/Info-iOS.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Sources/LYSwiftyStoreKit/Platforms/Info-iOS.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.musevisions.iOS.SwiftyStoreKit;
-				PRODUCT_NAME = SwiftyStoreKit;
+				PRODUCT_NAME = LYSwiftyStoreKit;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -1258,12 +1212,12 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "$(SRCROOT)/Sources/SwiftyStoreKit/Platforms/Info-iOS.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Sources/LYSwiftyStoreKit/Platforms/Info-iOS.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.musevisions.iOS.SwiftyStoreKit;
-				PRODUCT_NAME = SwiftyStoreKit;
+				PRODUCT_NAME = LYSwiftyStoreKit;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
@@ -1333,7 +1287,7 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwiftyStoreKit_iOSDemo.app/SwiftyStoreKit_iOSDemo";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LYSwiftyStoreKit_iOSDemo.app/LYSwiftyStoreKit_iOSDemo";
 			};
 			name = Debug;
 		};
@@ -1352,7 +1306,7 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwiftyStoreKit_iOSDemo.app/SwiftyStoreKit_iOSDemo";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LYSwiftyStoreKit_iOSDemo.app/LYSwiftyStoreKit_iOSDemo";
 			};
 			name = Release;
 		};
@@ -1368,12 +1322,12 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "$(SRCROOT)/Sources/SwiftyStoreKit/Platforms/Info-watchOS.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Sources/LYSwiftyStoreKit/Platforms/Info-watchOS.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.musevisions.iOS.SwiftyStoreKit;
-				PRODUCT_NAME = SwiftyStoreKit;
+				PRODUCT_NAME = LYSwiftyStoreKit;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "watchsimulator watchos";
@@ -1397,12 +1351,12 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "$(SRCROOT)/Sources/SwiftyStoreKit/Platforms/Info-watchOS.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Sources/LYSwiftyStoreKit/Platforms/Info-watchOS.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.musevisions.iOS.SwiftyStoreKit;
-				PRODUCT_NAME = SwiftyStoreKit;
+				PRODUCT_NAME = LYSwiftyStoreKit;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "watchsimulator watchos";
@@ -1426,12 +1380,12 @@
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				FRAMEWORK_VERSION = A;
-				INFOPLIST_FILE = "$(SRCROOT)/Sources/SwiftyStoreKit/Platforms/Info-macOS.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Sources/LYSwiftyStoreKit/Platforms/Info-macOS.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				PRODUCT_BUNDLE_IDENTIFIER = com.musevisions.macOS.SwiftyStoreKit;
-				PRODUCT_NAME = SwiftyStoreKit;
+				PRODUCT_NAME = LYSwiftyStoreKit;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1453,12 +1407,12 @@
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				FRAMEWORK_VERSION = A;
-				INFOPLIST_FILE = "$(SRCROOT)/Sources/SwiftyStoreKit/Platforms/Info-macOS.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Sources/LYSwiftyStoreKit/Platforms/Info-macOS.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				PRODUCT_BUNDLE_IDENTIFIER = com.musevisions.macOS.SwiftyStoreKit;
-				PRODUCT_NAME = SwiftyStoreKit;
+				PRODUCT_NAME = LYSwiftyStoreKit;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -1504,7 +1458,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		54C0D5331CF7404500F90BCE /* Build configuration list for PBXNativeTarget "SwiftyStoreKit_tvOS" */ = {
+		54C0D5331CF7404500F90BCE /* Build configuration list for PBXNativeTarget "LYSwiftyStoreKit_tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				54C0D5311CF7404500F90BCE /* Debug */,
@@ -1513,7 +1467,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6502F5F91B985833004E342D /* Build configuration list for PBXProject "SwiftyStoreKit" */ = {
+		6502F5F91B985833004E342D /* Build configuration list for PBXProject "LYSwiftyStoreKit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6502F60E1B985833004E342D /* Debug */,
@@ -1522,7 +1476,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6502F6101B985833004E342D /* Build configuration list for PBXNativeTarget "SwiftyStoreKit_iOSDemo" */ = {
+		6502F6101B985833004E342D /* Build configuration list for PBXNativeTarget "LYSwiftyStoreKit_iOSDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6502F6111B985833004E342D /* Debug */,
@@ -1531,7 +1485,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6502F6361B985C40004E342D /* Build configuration list for PBXNativeTarget "SwiftyStoreKit_iOS" */ = {
+		6502F6361B985C40004E342D /* Build configuration list for PBXNativeTarget "LYSwiftyStoreKit_iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6502F6371B985C40004E342D /* Debug */,
@@ -1540,7 +1494,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		654287FC1E79F5A000F61800 /* Build configuration list for PBXNativeTarget "SwiftyStoreKit_tvOSDemo" */ = {
+		654287FC1E79F5A000F61800 /* Build configuration list for PBXNativeTarget "LYSwiftyStoreKit_tvOSDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				654287FA1E79F5A000F61800 /* Debug */,
@@ -1549,7 +1503,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		658A08461E2EC5120074A98F /* Build configuration list for PBXNativeTarget "SwiftyStoreKitTests" */ = {
+		658A08461E2EC5120074A98F /* Build configuration list for PBXNativeTarget "LYSwiftyStoreKitTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				658A08471E2EC5120074A98F /* Debug */,
@@ -1558,7 +1512,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A61BF4DA2481F4970017D9BC /* Build configuration list for PBXNativeTarget "SwiftyStoreKit_watchOS" */ = {
+		A61BF4DA2481F4970017D9BC /* Build configuration list for PBXNativeTarget "LYSwiftyStoreKit_watchOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A61BF4DB2481F4970017D9BC /* Debug */,
@@ -1567,7 +1521,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C4D74BC21C24CECA0071AD3E /* Build configuration list for PBXNativeTarget "SwiftyStoreKit_macOS" */ = {
+		C4D74BC21C24CECA0071AD3E /* Build configuration list for PBXNativeTarget "LYSwiftyStoreKit_macOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C4D74BC01C24CECA0071AD3E /* Debug */,
@@ -1576,7 +1530,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C4FD3A0D1C2954C10035CFF3 /* Build configuration list for PBXNativeTarget "SwiftyStoreKit_macOSDemo" */ = {
+		C4FD3A0D1C2954C10035CFF3 /* Build configuration list for PBXNativeTarget "LYSwiftyStoreKit_macOSDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C4FD3A0E1C2954C10035CFF3 /* Debug */,

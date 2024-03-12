@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "654287ED1E79F5A000F61800"
-               BuildableName = "SwiftyStoreKit_tvOSDemo.app"
-               BlueprintName = "SwiftyStoreKit_tvOSDemo"
-               ReferencedContainer = "container:SwiftyStoreKit.xcodeproj">
+               BuildableName = "LYSwiftyStoreKit_tvOSDemo.app"
+               BlueprintName = "LYSwiftyStoreKit_tvOSDemo"
+               ReferencedContainer = "container:LYSwiftyStoreKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -31,9 +31,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "654287ED1E79F5A000F61800"
-            BuildableName = "SwiftyStoreKit_tvOSDemo.app"
-            BlueprintName = "SwiftyStoreKit_tvOSDemo"
-            ReferencedContainer = "container:SwiftyStoreKit.xcodeproj">
+            BuildableName = "LYSwiftyStoreKit_tvOSDemo.app"
+            BlueprintName = "LYSwiftyStoreKit_tvOSDemo"
+            ReferencedContainer = "container:LYSwiftyStoreKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -54,9 +54,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "654287ED1E79F5A000F61800"
-            BuildableName = "SwiftyStoreKit_tvOSDemo.app"
-            BlueprintName = "SwiftyStoreKit_tvOSDemo"
-            ReferencedContainer = "container:SwiftyStoreKit.xcodeproj">
+            BuildableName = "LYSwiftyStoreKit_tvOSDemo.app"
+            BlueprintName = "LYSwiftyStoreKit_tvOSDemo"
+            ReferencedContainer = "container:LYSwiftyStoreKit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "654287ED1E79F5A000F61800"
-            BuildableName = "SwiftyStoreKit_tvOSDemo.app"
-            BlueprintName = "SwiftyStoreKit_tvOSDemo"
-            ReferencedContainer = "container:SwiftyStoreKit.xcodeproj">
+            BuildableName = "LYSwiftyStoreKit_tvOSDemo.app"
+            BlueprintName = "LYSwiftyStoreKit_tvOSDemo"
+            ReferencedContainer = "container:LYSwiftyStoreKit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

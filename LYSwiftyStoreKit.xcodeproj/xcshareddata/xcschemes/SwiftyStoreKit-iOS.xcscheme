@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A61BF4C42481F4970017D9BC"
+               BlueprintIdentifier = "6502F62C1B985C40004E342D"
                BuildableName = "SwiftyStoreKit.framework"
-               BlueprintName = "SwiftyStoreKit_watchOS"
-               ReferencedContainer = "container:SwiftyStoreKit.xcodeproj">
+               BlueprintName = "LYSwiftyStoreKit_iOS"
+               ReferencedContainer = "container:LYSwiftyStoreKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -40,6 +40,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "6502F62C1B985C40004E342D"
+            BuildableName = "SwiftyStoreKit.framework"
+            BlueprintName = "LYSwiftyStoreKit_iOS"
+            ReferencedContainer = "container:LYSwiftyStoreKit.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -50,10 +59,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A61BF4C42481F4970017D9BC"
+            BlueprintIdentifier = "6502F62C1B985C40004E342D"
             BuildableName = "SwiftyStoreKit.framework"
-            BlueprintName = "SwiftyStoreKit_watchOS"
-            ReferencedContainer = "container:SwiftyStoreKit.xcodeproj">
+            BlueprintName = "LYSwiftyStoreKit_iOS"
+            ReferencedContainer = "container:LYSwiftyStoreKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

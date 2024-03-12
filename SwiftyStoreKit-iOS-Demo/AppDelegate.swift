@@ -23,7 +23,7 @@
 // THE SOFTWARE.
 
 import UIKit
-import SwiftyStoreKit
+import LYSwiftyStoreKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -39,7 +39,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func setupIAP() {
 
-        SwiftyStoreKit.completeTransactions(atomically: true) { purchases in
+        LYSwiftyStoreKit.SwiftyStoreKit.completeTransactions(atomically: true) { purchases in
 
             for purchase in purchases {
                 switch purchase.transaction.transactionState {
