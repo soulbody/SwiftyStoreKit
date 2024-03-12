@@ -2,6 +2,9 @@ Pod::Spec.new do |s|
   s.name         = 'LYSwiftyStoreKit'
   s.version      = '0.16.4'
   s.summary      = 'Lightweight In App Purchases Swift framework for iOS, tvOS, watchOS, macOS and Mac Catalyst.'
+  s.description      = <<-DESC
+   原框架为SwiftyStoreKit，此库修复当框架/模块具有相同名称的类时，无法使用命名空间的问题。
+                       DESC
   s.license      = 'MIT'
   s.homepage     = 'https://github.com/soulbody/SwiftyStoreKit'
   s.author       = { 'Andrea Bizzotto' => 'bizz84@gmail.com' }
